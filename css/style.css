@@ -1,0 +1,15 @@
+.content-background {
+	background-color: #ced6ff;
+	border-radius: 50px;
+	padding: 5% 0;
+
+}
+
+.content-primary {
+	height: 400px;
+	background-color: white;
+	border-radius: 50px;
+}
+
+.ml8 {margin-left: 8px;}
+.ml68 {margin-left: 68px;}

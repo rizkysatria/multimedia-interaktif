@@ -1,15 +1,46 @@
 .content-background {
-	background-color: #ced6ff;
-	border-radius: 50px;
-	padding: 5% 0;
-
+	background-color: ##795548;
+	height:100%;
+	padding: 1% 0px 1% 0;
 }
 
 .content-primary {
-	height: 400px;
+	height: 100%;
+	background-color: #795548;
+}
+
+.head-title, .header-content{
+	text-align: center;
+    font-size: -webkit-xxx-large;
+    font-family: monospace;
+    background-color: burlywood;
+}
+
+.menu-options{
+
+}
+
+.profile-picture, .biodata{
 	background-color: white;
-	border-radius: 50px;
+}
+
+.profile-picture, .biodata {
+	height: 23%;
+}
+
+.biodata{
+}
+
+.current-section{
+	margin-left: 2px;
+}
+
+.menu-section{
+	    margin-left: -2px;
 }
 
 .ml8 {margin-left: 8px;}
+.ml10 {margin-left: 10px !important;}
+.ml55{margin-left: 55px;}
 .ml68 {margin-left: 68px;}
+.p0{padding:0px !important;}
